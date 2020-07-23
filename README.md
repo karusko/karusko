@@ -1,1 +1,3 @@
-# About me
+### Hi there 👋
+
+I am an artist ❎💵
