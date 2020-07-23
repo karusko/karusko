@@ -9,5 +9,3 @@ The medium for my art is technology
 I am very perseverant
 
 In love with everything visual
-
-![](./assets/devil.png)
