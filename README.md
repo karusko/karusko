@@ -19,4 +19,4 @@ Some of the languages I like
   <img alt="Nodejs" src="https://img.shields.io/badge/LaTeX-1f425f.svg" />
 </p>
 
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-inkscape.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
