@@ -18,3 +18,5 @@ Some of the languages I like
   <img alt="Python 3" src="https://img.shields.io/badge/-Python%203-F7B93E&logo=python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/LaTeX-1f425f.svg" />
 </p>
+
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-inkscape.svg)](https://forthebadge.com)
